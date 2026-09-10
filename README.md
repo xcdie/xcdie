@@ -1,6 +1,6 @@
 #  Hello ! I'm Jamlick Sagide
 
-A dedicated software engineering student and developer passionate about turning complex problems into elegant, production-ready code. I thrive on building efficient applications, exploring new tools, and continuously leveling up my technical skillset.
+A dedicated software engineering student and cyber security enthusiast passionate about turning complex problems into elegant, production-ready code. I thrive on building efficient applications, exploring new tools, and continuously leveling up my technical skillset.
 
 ---
 
