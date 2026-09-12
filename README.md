@@ -21,10 +21,10 @@ A dedicated software engineering student and cyber security enthusiast passionat
 ---
 
 ###  GitHub Activity & Metrics
+<br>
 
-<p align="left">
-  <img src="https://vercel.app" alt="Jamlick's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xcdie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
