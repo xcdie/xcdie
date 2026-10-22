@@ -25,7 +25,6 @@ A dedicated software engineering student and cyber security enthusiast passionat
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcdie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
