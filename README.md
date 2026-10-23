@@ -60,7 +60,6 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-> _Edit this list to match the tools you actually use._
 
 ---
 
