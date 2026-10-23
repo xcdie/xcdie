@@ -66,7 +66,7 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=radical&hide_border=true" alt="GitHub Streak" />
 
