@@ -15,7 +15,7 @@
 
 ---
 
-## Hello, I'm Jamlick
+##  Hello, I'm Jamlick
 
 A dedicated **software engineering student** and **cybersecurity enthusiast** who loves turning complex problems into elegant, production-ready code. I enjoy building efficient applications, breaking things (ethically), and continuously leveling up.
 
@@ -27,7 +27,7 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 
 **Frameworks & Frontend**
 
-<img src="https://skillicons.dev/icons?i=expressjs,nextjs,html,css&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=express,nextjs,html,css&theme=dark" alt="Frameworks" />
 
 **Databases**
 
@@ -61,17 +61,14 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 
 ---
 
-
 ##  GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=xcdie&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xcdie&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
