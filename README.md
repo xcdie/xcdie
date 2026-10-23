@@ -37,7 +37,7 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 
 **Frameworks & Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=expressjs,nextjs,html,css&theme=dark" alt="Frameworks" />
 
 **Databases**
 
