@@ -3,10 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jamlick%20Sagide&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%7C+API+Design+%7C+Pentesting;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </a>
 
 <br>
+
 
 <img src="https://komarev.com/ghpvc/?username=xcdie&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/xcdie?style=for-the-badge&color=8b5cf6&logo=github" alt="Followers" />
