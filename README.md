@@ -24,7 +24,6 @@ A dedicated **software engineering student** and **cybersecurity enthusiast** wh
 -  **Practicing:** CTFs and lab environments (TryHackMe / Hack The Box)
 -  **Open to:** collaborations, open-source contributions, and modern architecture discussions
 -  **Ask me about:** Python, PHP, Next.js, Docker, Linux, and web security
--  **Fun fact:** _add something memorable_
 
 ---
 
