@@ -70,17 +70,6 @@ A **software engineering student** and **cybersecurity enthusiast** who turns co
 
 ---
 
-## 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/xcdie/kollektiv">
-  <img src="https://github-readme-stats-flame-tau-37.vercel.app/api/pin/?username=xcdie&repo=kollektiv&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true" alt="Kollektiv" />
-</a>
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -95,25 +84,6 @@ A **software engineering student** and **cybersecurity enthusiast** who turns co
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xcdie&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xcdie&bg_color=04130b&color=22c55e&line=4ade80&point=ffffff&area=true&area_color=0f3d22&hide_border=true" alt="Activity graph" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/xcdie/xcdie/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
----
 
 ## 🏁 Currently Chasing
 
