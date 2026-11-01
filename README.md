@@ -27,6 +27,13 @@
 <img src="assets/terminal.svg" alt="Terminal: whoami — Jamlick Sagide, building Kollektiv, learning backend optimisation, API design and pentesting" width="100%" />
 </div>
 
+<div align="center">
+  <p>
+    I’m a software engineering student focused on building clean backend systems, designing reliable APIs, and learning how security flaws show up in real-world software.
+    I enjoy turning complex problems into practical solutions, experimenting with secure engineering practices, and shipping projects that are useful, thoughtful, and resilient.
+  </p>
+</div>
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🛠️ Tech Stack
@@ -101,10 +108,22 @@
 
 ## 🏁 Currently Chasing
 
-- [ ] Ship Kollektiv to production
-- [ ] Climb the TryHackMe leaderboard
-- [ ] Land a first open-source PR in a security tool
-- [ ] Build and publish a hardened REST API template
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">- [ ] Ship Kollektiv to production</td>
+    </tr>
+    <tr>
+      <td align="left">- [ ] Climb the TryHackMe leaderboard</td>
+    </tr>
+    <tr>
+      <td align="left">- [ ] Land a first open-source PR in a security tool</td>
+    </tr>
+    <tr>
+      <td align="left">- [ ] Build and publish a hardened REST API template</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
