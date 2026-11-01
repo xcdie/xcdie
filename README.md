@@ -75,9 +75,7 @@
 
 </div>
 
-<details>
-<summary><b>🎯 Where I'm sharpening my skills</b></summary>
-<br>
+## 🎯 Where I'm sharpening my skills
 
 | Area | Focus | Status |
 |---|---|---|
@@ -85,8 +83,6 @@
 | 🧪 CTFs & labs | TryHackMe rooms, Hack The Box machines | ![](https://img.shields.io/badge/-Ongoing-22c55e?style=flat-square) |
 | ⚙️ Backend | Query optimisation, caching, clean API design | ![](https://img.shields.io/badge/-In%20progress-22c55e?style=flat-square) |
 | 🐳 DevOps | Docker, Linux hardening, deployment | ![](https://img.shields.io/badge/-Exploring-4ade80?style=flat-square) |
-
-</details>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
