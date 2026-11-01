@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:04130b,50:0f3d22,100:0a2415&height=230&section=header&text=Jamlick%20Sagide&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" alt="Header" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Software+Engineering+Student;Backend+%7C+API+Design+%7C+Pentesting;Turning+complex+problems+into+clean+code;Make+it+work.+Make+it+right.+Make+it+secure." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=640&lines=Software+Engineering+Student;Backend+%7C+API+Design+%7C+Pentesting;Turning+complex+problems+into+clean+code;Make+it+work.+Make+it+right.+Make+it+secure." alt="Typing SVG" /></a>
 
 <br>
 
@@ -10,24 +10,30 @@
 <img src="https://img.shields.io/github/followers/xcdie?style=for-the-badge&color=22c55e&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/xcdie?style=for-the-badge&color=22c55e&logo=github&label=Stars" alt="Stars" />
 <img src="https://img.shields.io/badge/Based%20in-Kenya%20%F0%9F%87%B0%F0%9F%87%AA-22c55e?style=for-the-badge" alt="Kenya" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborations" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
-## 👋 Hello, I'm Jamlick
+## 💻 whoami
 
-A **software engineering student** and **cybersecurity enthusiast** who turns complex problems into clean, production-ready code. I like building efficient applications, breaking things (ethically), and levelling up every day.
+```bash
+jamlick@kali:~$ whoami
+Jamlick Sagide — software engineering student & cybersecurity enthusiast
 
-| | |
-|---|---|
-| 🔭 **Building** | [Kollektiv](https://github.com/xcdie/kollektiv) |
-| 🌱 **Learning** | Backend optimisation, API design, penetration testing |
-| 🏴 **Practising** | CTFs and labs on TryHackMe / Hack The Box |
-| 🤝 **Open to** | Collaborations, open source, architecture discussions |
-| 💬 **Ask me about** | Python, PHP, Next.js, Docker, Linux, web security |
+jamlick@kali:~$ cat focus.txt
+building   -> Kollektiv
+learning   -> backend optimisation, API design, penetration testing
+practising -> CTFs & labs (TryHackMe / Hack The Box)
+open_to    -> collaborations, open source, architecture discussions
+ask_me     -> Python, PHP, Next.js, Docker, Linux, web security
 
----
+jamlick@kali:~$ echo $MOTTO
+Make it work, make it right, make it secure.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +60,7 @@ A **software engineering student** and **cybersecurity enthusiast** who turns co
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
 ## 🔐 Security Toolkit
 
@@ -68,31 +74,74 @@ A **software engineering student** and **cybersecurity enthusiast** who turns co
 
 </div>
 
----
+<details>
+<summary><b>🎯 Where I'm sharpening my skills</b></summary>
+<br>
 
+| Area | Focus | Status |
+|---|---|---|
+| 🌐 Web security | OWASP Top 10, auth flaws, injection, XSS | ![](https://img.shields.io/badge/-In%20progress-22c55e?style=flat-square) |
+| 🧪 CTFs & labs | TryHackMe rooms, Hack The Box machines | ![](https://img.shields.io/badge/-Ongoing-22c55e?style=flat-square) |
+| ⚙️ Backend | Query optimisation, caching, clean API design | ![](https://img.shields.io/badge/-In%20progress-22c55e?style=flat-square) |
+| 🐳 DevOps | Docker, Linux hardening, deployment | ![](https://img.shields.io/badge/-Exploring-4ade80?style=flat-square) |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
+
+## 📌 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/xcdie/kollektiv">
+  <img src="https://github-readme-stats-flame-tau-37.vercel.app/api/pin/?username=xcdie&repo=kollektiv&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true" alt="Kollektiv" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true&v=2" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&title_color=22c55e&text_color=d1fae5&bg_color=04130b&hide_border=true&v=2" alt="Top Languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=xcdie&background=04130B&ring=22C55E&fire=4ADE80&currStreakLabel=22C55E&sideLabels=D1FAE5&currStreakNum=D1FAE5&sideNums=D1FAE5&dates=86EFAC&stroke=0F3D22&border=0F3D22&v=2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=xcdie&background=04130B&ring=22C55E&fire=4ADE80&currStreakLabel=22C55E&sideLabels=D1FAE5&currStreakNum=D1FAE5&sideNums=D1FAE5&dates=86EFAC&stroke=0F3D22&border=0F3D22&hide_border=true&v=2" alt="GitHub Streak" />
 
 <br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=xcdie&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xcdie&bg_color=04130b&color=22c55e&line=4ade80&point=ffffff&area=true&area_color=0f3d22&hide_border=true" alt="Activity graph" width="100%" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/xcdie/xcdie/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
 ## 🏁 Currently Chasing
 
 - [ ] Ship Kollektiv to production
 - [ ] Climb the TryHackMe leaderboard
-- [ ] Land first open-source PR in a security tool
+- [ ] Land a first open-source PR in a security tool
 - [ ] Build and publish a hardened REST API template
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:04130b,50:22c55e,100:04130b&height=2&section=header" width="100%" alt="" />
 
 ## 🤝 Connect With Me
 
@@ -105,7 +154,7 @@ A **software engineering student** and **cybersecurity enthusiast** who turns co
 
 <br><br>
 
-*"Make it work, make it right, make it secure."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=22C55E&center=true&vCenter=true&width=520&lines=%22Make+it+work%2C+make+it+right%2C+make+it+secure.%22" alt="Motto" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2415,50:0f3d22,100:04130b&height=100&section=footer" alt="Footer" width="100%" />
 
