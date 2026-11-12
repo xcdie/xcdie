@@ -1,40 +1,52 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Jamlick Sagide — Software Engineer | Cybersecurity Enthusiast" width="100%" />
+<img src="assets/banner.svg" alt="Jamlick Sagide — Software Developer | Cybersecurity | AI Security" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=640&lines=Software+Engineering+Student;Backend+%7C+API+Design+%7C+Pentesting;Turning+complex+problems+into+clean+code;Make+it+work.+Make+it+right.+Make+it+secure." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=680&lines=Software+Development+Student;Cybersecurity+Enthusiast;AI+Security+Engineer+in+Training;Backend+%7C+API+Design+%7C+Pentesting;Securing+the+next+generation+of+AI" alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=xcdie&label=Profile%20views&color=22c55e&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/xcdie?style=for-the-badge&color=22c55e&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/xcdie?style=for-the-badge&color=22c55e&logo=github&label=Stars" alt="Stars" />
-<img src="https://img.shields.io/badge/Based%20in-Kenya%20%F0%9F%87%B0%F0%9F%87%AA-22c55e?style=for-the-badge" alt="Kenya" />
-<img src="https://img.shields.io/badge/Open%20to-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborations" />
+<img src="https://komarev.com/ghpvc/?username=xcdie&label=Profile%20views&color=22c55e&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/xcdie?style=for-the-badge&color=22c55e&logo=github" />
+<img src="https://img.shields.io/github/stars/xcdie?style=for-the-badge&color=22c55e&logo=github&label=Stars" />
+<img src="https://img.shields.io/badge/Based%20in-Kenya%20🇰🇪-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
 
 <br><br>
 
-<a href="https://github.com/xcdie/kollektiv"><img src="https://img.shields.io/badge/▶%20See%20my%20latest%20project-04130b?style=for-the-badge&labelColor=22c55e&color=04130b" alt="Latest project" /></a>
-<a href="mailto:jamlickmarsh400@gmail.com"><img src="https://img.shields.io/badge/✉%20Hire%20%2F%20Collaborate-04130b?style=for-the-badge&labelColor=22c55e&color=04130b" alt="Contact" /></a>
+<a href="https://github.com/xcdie">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-04130b?style=for-the-badge&labelColor=22c55e&color=04130b" />
+</a>
+
+<a href="mailto:jamlickmarsh400@gmail.com">
+<img src="https://img.shields.io/badge/HIRE%20%2F%20COLLABORATE-04130b?style=for-the-badge&labelColor=22c55e&color=04130b" />
+</a>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 💻 whoami
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal: whoami — Jamlick Sagide, building Kollektiv, learning backend optimisation, API design and pentesting" width="100%" />
+<img src="assets/terminal.svg" alt="Jamlick Sagide terminal introduction" width="100%" />
 </div>
+
+I'm a Software Development student, cybersecurity enthusiast, and aspiring AI Security Engineer developing my skills through hands-on learning and TryHackMe.
+
+My interests lie in building reliable backend systems, designing secure APIs, identifying vulnerabilities, and understanding how artificial intelligence systems can be exploited and protected.
+
+I enjoy turning complex technical problems into practical solutions, experimenting with security tools, and building projects that solve real-world problems.
+
+**My goal is to build software that doesn't just work — it works securely.**
 
 <div align="center">
-  <p>
-    I’m a software engineering student focused on building clean backend systems, designing reliable APIs, and learning how security flaws show up in real-world software.
-    I enjoy turning complex problems into practical solutions, experimenting with secure engineering practices, and shipping projects that are useful, thoughtful, and resilient.
-  </p>
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🛠️ Tech Stack
 
@@ -43,99 +55,193 @@
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,js,php,cpp,bash&theme=dark" alt="Languages" /></td>
+<td><img src="https://skillicons.dev/icons?i=py,js,php,cpp,bash&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frameworks & Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=express,nextjs,html,css&theme=dark" alt="Frameworks" /></td>
+<td><img src="https://skillicons.dev/icons?i=express,nextjs,html,css&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" alt="Databases" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mariadb,supabase&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Tools & Platforms</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,kali,vscode&theme=dark" alt="Tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,kali,vscode&theme=dark" /></td>
 </tr>
 </table>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-## 🔐 Security Toolkit
+## 🔐 Cybersecurity Toolkit
 
 <div align="center">
 
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 </div>
 
-## 🎯 Where I'm sharpening my skills
+## 🤖 AI Security Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20SECURITY-ENGINEERING-22c55e?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+I'm developing my AI Security Engineering expertise through **TryHackMe**, focusing on understanding how AI-powered applications can be attacked, assessed, and secured.
+
+Areas I'm exploring:
+
+- LLM (Large Language Model) security.
+- Prompt injection and jailbreak attacks.
+- Insecure AI output handling.
+- AI application vulnerabilities.
+- Sensitive information disclosure.
+- AI system security testing.
+- OWASP Top 10 for LLM Applications.
+- Secure development of AI-powered applications.
+
+My focus is on practical security knowledge, hands-on labs, and building a strong foundation in securing AI systems.
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/jamlickmarsh400">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20TRYHACKME%20PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+## 🚀 Featured Projects
+
+### 🛡️ KE WEBGUARD
+
+**Cybersecurity Assessment Platform**
+
+An ongoing project focused on helping assess the security posture of websites through automated security checks and vulnerability assessment.
+
+Key development areas:
+
+- Website vulnerability assessment.
+- SSL/TLS and HTTPS security checks.
+- HTTP security headers analysis.
+- Open port assessment.
+- Malware detection capabilities.
+- Security compliance assessment.
+- Vulnerability intelligence integration.
+
+**Mission:** Make practical website security assessment more accessible.
+
+<a href="https://ke-webguard.onrender.com/">Visit KE WEBGUARD →</a>
+
+### 🌐 Kollektiv
+
+**Professional Community & Collaboration Platform**
+
+A platform designed to connect people through professional interests, ideas, projects, collaboration, and career opportunities.
+
+Core features:
+
+- Professional profiles.
+- Communities and collaboration.
+- Project showcases.
+- Career and internship opportunities.
+- Professional networking.
+- Secure communication.
+
+**Mission:** Turn professional participation into career opportunities.
+
+<a href="https://github.com/xcdie/kollektiv">Explore Kollektiv →</a>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+## 🎯 Where I'm Sharpening My Skills
 
 | Area | Focus | Status |
 |---|---|---|
-| 🌐 Web security | OWASP Top 10, auth flaws, injection, XSS | ![](https://img.shields.io/badge/-In%20progress-22c55e?style=flat-square) |
-| 🧪 CTFs & labs | TryHackMe rooms, Hack The Box machines | ![](https://img.shields.io/badge/-Ongoing-22c55e?style=flat-square) |
-| ⚙️ Backend | Query optimisation, caching, clean API design | ![](https://img.shields.io/badge/-In%20progress-22c55e?style=flat-square) |
-| 🐳 DevOps | Docker, Linux hardening, deployment | ![](https://img.shields.io/badge/-Exploring-4ade80?style=flat-square) |
+| 🌐 Web Security | OWASP Top 10, authentication flaws, injection, XSS | In progress |
+| 🤖 AI Security | LLM vulnerabilities, prompt injection, AI application security | Learning through TryHackMe |
+| 🧪 CTFs & Labs | TryHackMe, practical penetration testing | Ongoing |
+| ⚙️ Backend Engineering | Query optimisation, caching, clean API design | In progress |
+| 🐳 DevOps | Docker, Linux hardening, deployment | Exploring |
+| 🔒 Secure Development | Secure coding, API security, vulnerability prevention | In progress |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
-
-
-
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&title_color=22c55e&text_color=d1fae5&bg_color=04130b&hide_border=true&v=2" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&title_color=22c55e&icon_color=4ade80&text_color=d1fae5&bg_color=04130b&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<br>
+<img height="180" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&title_color=22c55e&text_color=d1fae5&bg_color=04130b&hide_border=true" alt="Top Languages" />
 
+<br><br>
 
-<br>
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=dark&background=04130b&ring=22c55e&fire=4ade80&currStreakLabel=22c55e&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🏁 Currently Chasing
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">- [ ] Ship Kollektiv to production</td>
-    </tr>
-    <tr>
-      <td align="left">- [ ] Climb the TryHackMe leaderboard</td>
-    </tr>
-    <tr>
-      <td align="left">- [ ] Land a first open-source PR in a security tool</td>
-    </tr>
-    <tr>
-      <td align="left">- [ ] Build and publish a hardened REST API template</td>
-    </tr>
-  </table>
-</div>
+- [ ] Continue developing KE WEBGUARD.
+- [ ] Ship Kollektiv to production.
+- [ ] Strengthen my AI Security Engineering skills through TryHackMe.
+- [ ] Explore and practise LLM security testing.
+- [ ] Climb the TryHackMe leaderboard.
+- [ ] Contribute to open-source cybersecurity projects.
+- [ ] Build and publish a hardened REST API template.
+- [ ] Develop practical AI security projects.
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/xcdie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/jamlicksagide"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jamlickmarsh400@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://tryhackme.com/p/jamlickmarsh400"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://github.com/xcdie">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/jamlicksagide">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jamlickmarsh400@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://tryhackme.com/p/jamlickmarsh400">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=22C55E&center=true&vCenter=true&width=520&lines=%22Make+it+work%2C+make+it+right%2C+make+it+secure.%22" alt="Motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2500&color=22C55E&center=true&vCenter=true&width=600&lines=Make+it+work.;Make+it+right.;Make+it+secure.;Build+the+future+responsibly." alt="Motto" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2415,50:0f3d22,100:04130b&height=100&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2415,50:0f3d22,100:04130b&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
