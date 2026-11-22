@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/banner.svg" alt="Jamlick Sagide — Software Developer | Cybersecurity | AI Security" width="100%" />
@@ -155,7 +154,7 @@ Key development areas:
 <div align="center">
 
 <a href="https://kollektiv-1.onrender.com/">
-<img src="assets/kollektiv-logo.svg" width="110" alt="Kollektiv Logo" />
+<img src="assets/kollektiv-logo.svg" width="85" alt="Kollektiv Logo" />
 </a>
 
 <h3>KOLLEKTIV</h3>
@@ -220,15 +219,17 @@ Core features:
 <div align="center">
 
 <a href="https://github.com/xcdie">
-<img width="49%" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="GitHub Statistics Including Private Contributions" />
+<img width="48%" height="165" src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="GitHub Statistics Including Private Contributions" />
 </a>
 <a href="https://github.com/xcdie">
-<img width="49%" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&count_private=true&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="Programming Languages" />
+<img width="48%" height="165" src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&count_private=true&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="Programming Languages" />
 </a>
 
 <br><br>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=dark&background=090b11&ring=5174c6&fire=8b5cf6&currStreakLabel=5174c6&sideLabels=d1d5db&dates=9ca3af&hide_border=true" alt="GitHub Contribution Streak" />
+<a href="https://github.com/xcdie">
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=dark&background=090b11&ring=5174c6&fire=8b5cf6&currStreakLabel=5174c6&sideLabels=d1d5db&dates=9ca3af&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
