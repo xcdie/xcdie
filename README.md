@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/banner.svg" alt="Jamlick Sagide — Software Developer | Cybersecurity | AI Security" width="100%" />
@@ -55,30 +56,19 @@ I enjoy turning complex technical problems into practical solutions, experimenti
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=py,js,php,cpp,bash&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=py,js,php,cpp,bash&theme=dark" /></td>
 </tr>
-
 <tr>
 <td align="center"><b>Frameworks & Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=express,nextjs,html,css&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=express,nextjs,html,css&theme=dark" /></td>
 </tr>
-
 <tr>
 <td align="center"><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,supabase&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mariadb,supabase&theme=dark" /></td>
 </tr>
-
 <tr>
 <td align="center"><b>Tools & Platforms</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,kali,vscode&theme=dark" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,kali,vscode&theme=dark" /></td>
 </tr>
 </table>
 
@@ -104,9 +94,7 @@ I enjoy turning complex technical problems into practical solutions, experimenti
 ## 🤖 AI Security Engineering
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/AI%20SECURITY-ENGINEERING-5174c6?style=for-the-badge&logo=openai&logoColor=white" />
-
+<img src="https://img.shields.io/badge/AI%20SECURITY%20ENGINEERING-5174c6?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 I'm developing my AI Security Engineering expertise through **TryHackMe**, focusing on understanding how AI-powered applications can be attacked, assessed, and secured.
@@ -125,11 +113,9 @@ Areas I'm exploring:
 My focus is on practical security knowledge, hands-on labs, and building a strong foundation in securing AI systems.
 
 <div align="center">
-
 <a href="https://tryhackme.com/p/jamlickmarsh400">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20TRYHACKME%20PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-
 </div>
 
 <div align="center">
@@ -157,11 +143,9 @@ Key development areas:
 **Mission:** Make practical website security assessment more accessible.
 
 <div align="center">
-
 <a href="https://ke-webguard.onrender.com/">
 <img src="https://img.shields.io/badge/VISIT%20KE%20WEBGUARD-090b11?style=for-the-badge&labelColor=5174c6" />
 </a>
-
 </div>
 
 ---
@@ -170,17 +154,17 @@ Key development areas:
 
 <div align="center">
 
-<a href="https://github.com/xcdie/kollektiv">
+<a href="https://kollektiv-1.onrender.com/">
 <img src="assets/kollektiv-logo.svg" width="110" alt="Kollektiv Logo" />
 </a>
 
 <h3>KOLLEKTIV</h3>
 
-**Professional Community & Collaboration Platform**
-
 <img src="https://img.shields.io/badge/COMMUNITY-5174C6?style=flat-square" />
 <img src="https://img.shields.io/badge/COLLABORATION-0D208B?style=flat-square" />
 <img src="https://img.shields.io/badge/OPPORTUNITIES-8B5CF6?style=flat-square" />
+
+**Professional Community & Collaboration Platform**
 
 </div>
 
@@ -202,8 +186,12 @@ Core features:
 
 <div align="center">
 
+<a href="https://kollektiv-1.onrender.com/">
+<img src="https://img.shields.io/badge/EXPLORE%20KOLLEKTIV-090b11?style=for-the-badge&labelColor=5174c6&logo=googlechrome&logoColor=white" />
+</a>
+
 <a href="https://github.com/xcdie/kollektiv">
-<img src="https://img.shields.io/badge/EXPLORE%20KOLLEKTIV-090b11?style=for-the-badge&labelColor=5174c6&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE%20CODE-090b11?style=for-the-badge&labelColor=0d208b&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -231,22 +219,21 @@ Core features:
 
 <div align="center">
 
-<!-- Replace YOUR-VERCEL-DEPLOYMENT with your own deployed GitHub Readme Stats URL -->
-
 <img height="180"
-src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api?username=xcdie&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true"
+src="https://github-readme-stats-flame-tau-37.vercel.app/api?username=xcdie&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true"
 alt="GitHub Statistics Including Private Contributions" />
 
 <img height="180"
-src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api/top-langs/?username=xcdie&layout=compact&count_private=true&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true"
-alt="Programming Languages Including Private Repositories" />
+src="https://github-readme-stats-flame-tau-37.vercel.app/api/top-langs/?username=xcdie&layout=compact&count_private=true&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true"
+alt="Programming Languages" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xcdie&theme=github_dark"
-alt="GitHub Contribution Profile" width="100%" />
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=dark&background=090b11&ring=5174c6&fire=8b5cf6&currStreakLabel=5174c6&sideLabels=d1d5db&dates=9ca3af&hide_border=true"
+alt="Total Contributions, Current Streak and Longest Streak"
+width="100%"
+/>
 
 </div>
 
