@@ -6,9 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5174C6&center=true&vCenter=true&width=680&lines=Software+Development+Student;Cybersecurity+Enthusiast;AI+Security+Engineer+in+Training;Backend+%7C+API+Design+%7C+Pentesting;Building+Technology+That+Matters" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=xcdie&label=Profile%20views&color=5174c6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=xcdie&label=Profile%20Views&color=5174c6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/xcdie?style=for-the-badge&color=5174c6&logo=github" />
 <img src="https://img.shields.io/github/stars/xcdie?style=for-the-badge&color=5174c6&logo=github&label=Stars" />
 <img src="https://img.shields.io/badge/Based%20in-Kenya%20🇰🇪-0d208b?style=for-the-badge" />
@@ -156,7 +156,13 @@ Key development areas:
 
 **Mission:** Make practical website security assessment more accessible.
 
-<a href="https://ke-webguard.onrender.com/">Explore KE WEBGUARD →</a>
+<div align="center">
+
+<a href="https://ke-webguard.onrender.com/">
+<img src="https://img.shields.io/badge/VISIT%20KE%20WEBGUARD-090b11?style=for-the-badge&labelColor=5174c6" />
+</a>
+
+</div>
 
 ---
 
@@ -164,9 +170,17 @@ Key development areas:
 
 <div align="center">
 
-<img src="assets/kollektiv-logo.svg" width="90" alt="Kollektiv logo" />
+<a href="https://github.com/xcdie/kollektiv">
+<img src="assets/kollektiv-logo.svg" width="110" alt="Kollektiv Logo" />
+</a>
+
+<h3>KOLLEKTIV</h3>
 
 **Professional Community & Collaboration Platform**
+
+<img src="https://img.shields.io/badge/COMMUNITY-5174C6?style=flat-square" />
+<img src="https://img.shields.io/badge/COLLABORATION-0D208B?style=flat-square" />
+<img src="https://img.shields.io/badge/OPPORTUNITIES-8B5CF6?style=flat-square" />
 
 </div>
 
@@ -184,7 +198,7 @@ Core features:
 - Secure communication.
 - Skills and reputation development.
 
-**Mission:** Turn professional participation into career opportunities.
+**Mission: Turn professional participation into career opportunities.**
 
 <div align="center">
 
@@ -213,17 +227,26 @@ Core features:
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=xcdie&show_icons=true&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="GitHub Stats" />
+<!-- Replace YOUR-VERCEL-DEPLOYMENT with your own deployed GitHub Readme Stats URL -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcdie&layout=compact&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true" alt="Top Languages" />
+<img height="180"
+src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api?username=xcdie&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=5174c6&icon_color=8b5cf6&text_color=d1d5db&bg_color=090b11&hide_border=true"
+alt="GitHub Statistics Including Private Contributions" />
 
-<br><br>
+<img height="180"
+src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api/top-langs/?username=xcdie&layout=compact&count_private=true&title_color=5174c6&text_color=d1d5db&bg_color=090b11&hide_border=true"
+alt="Programming Languages Including Private Repositories" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xcdie&theme=dark&background=090b11&ring=5174c6&fire=8b5cf6&currStreakLabel=5174c6&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xcdie&theme=github_dark"
+alt="GitHub Contribution Profile" width="100%" />
 
 </div>
 
